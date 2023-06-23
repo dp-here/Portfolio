@@ -1,3 +1,4 @@
+//add experience year/ add profile pics , place them kinn assets, check and reload
 import {About, Footer, Header, Skills, Testimonial, Work} from './container'
 import {Navbar} from './components'
 import './App.scss'
